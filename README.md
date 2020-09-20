@@ -46,3 +46,10 @@ All credit for the scanning service goes to <a href="https://antiscan.me/contact
 Free daily scans are not currently supported.
 
 This script uses the **AVCHECK API**.
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
